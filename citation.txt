@@ -1,0 +1,6 @@
+@article{REPO351,
+    author = "Sui, Dianbo and Zeng, Xiangrong and Chen, Yubo and Liu, Kang and Zhao, Jun",
+    journal = "IEEE Transactions on Neural Networks and Learning Systems",
+    title = "{Joint Entity and Relation Extraction with Set Prediction Networks}",
+    year = "2023"
+}
